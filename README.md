@@ -1,6 +1,10 @@
 # NetworkProject
 # Campus Network Configuration Project
 
+## 🌟 My Network Project  
+**Author**: Lahiru Sandaruwan  
+**Tools**: Cisco Packet Tracer 
+
 ## 📜 Table of Contents
 - [Network Overview](#-network-overview)
 - [VLAN Configuration](#-vlan-configuration)
